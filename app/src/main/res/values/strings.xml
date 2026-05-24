@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMusicApp</string>
+    <string name="login_title">MyMusicApp</string>
+    <string name="login_subtitle">&#x6B22;&#x8FCE;&#x8FDB;&#x5165;&#x97F3;&#x4E50;&#x64AD;&#x653E;&#x5668;</string>
+    <string name="hint_username">&#x8BF7;&#x8F93;&#x5165;&#x8D26;&#x53F7;</string>
+    <string name="hint_password">&#x8BF7;&#x8F93;&#x5165;&#x5BC6;&#x7801;</string>
+    <string name="login_button">&#x767B;&#x5F55;</string>
+    <string name="music_title">&#x6211;&#x7684;&#x97F3;&#x4E50;</string>
+    <string name="now_playing_idle">&#x8BF7;&#x9009;&#x62E9;&#x4E00;&#x9996;&#x97F3;&#x4E50;&#x64AD;&#x653E;</string>
+    <string name="previous_song">&#x4E0A;&#x4E00;&#x9996;</string>
+    <string name="play_or_pause">&#x64AD;&#x653E;&#x6216;&#x6682;&#x505C;</string>
+    <string name="next_song">&#x4E0B;&#x4E00;&#x9996;</string>
+</resources>
